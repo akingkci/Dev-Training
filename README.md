@@ -2,7 +2,7 @@
 
 <hr>
 
-Go to the [GitHub Playbook-Training published page](https://akingkci.github.io/Playbook-Training/)
+Go to the [GitHub Playbook-Training published page](https://akingkci.github.io/Dev-Training/)
 
 <hr>
 
